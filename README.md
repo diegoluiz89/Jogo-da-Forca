@@ -33,7 +33,7 @@ int main (){
     while ((chances > 0)and(acertos < tam)){
         cout << "Chances Restantes: " << chances << "\n\n";
         cout << "Palavra Secreta: ";
-        for (ind=0; ind<30; ind++){
+        for (ind=0; ind<tam; ind++){
             cout << secreta[ind];
         }
         cout << "\n\nDigite uma letra: ";
