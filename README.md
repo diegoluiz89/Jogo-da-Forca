@@ -1,4 +1,4 @@
-# Jogo-da-Forca
+# Jogo-da-Forca C++
 
 #include <iostream>
 #include <stdlib.h>
